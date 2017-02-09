@@ -9,7 +9,11 @@ To get a better understanding of the effectiveness of our marketing campaign, I 
 Data Dictionary:
 
 CustomerID - ID of customer in data set selected for target marketing
+
 Size - Potential size of their account (in thousands)
+
 District - District where customer is located
+
 Firm.Chosen - Actual firm chosen by customer
+
 ABB.Prob (and the other 3 "Prob" columns) - The estimated probability of customer picking a firm calculated by logit model
